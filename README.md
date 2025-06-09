@@ -16,7 +16,7 @@ sudo apt install postgresql postgresql-contrib
 ## Installation
 to insta gator CLI use the following CLI command:
 ```
-go install github.com/BahryJarbou/Gator
+go install github.com/BahryJarbou/gator
 ```
 
 ## Setting up the config file
