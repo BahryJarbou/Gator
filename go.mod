@@ -1,4 +1,4 @@
-module github.com/BahryJarbou/Gator
+module github.com/BahryJarbou/gator
 
 go 1.24.3
 

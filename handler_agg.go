@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/BahryJarbou/Gator/internal/database"
+	"github.com/BahryJarbou/gator/internal/database"
 	"github.com/google/uuid"
 	"github.com/lib/pq"
 )
